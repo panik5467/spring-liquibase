@@ -8,3 +8,4 @@
 # docs
 - [Doc Spring + Liquibase](https://docs.liquibase.com/tools-integrations/springboot/springboot.html)
 - [One-Stop Guide to Database Migration with Liquibase and Spring Boot](https://reflectoring.io/database-migration-spring-boot-liquibase/)
+- [Evolving your database using Spring-boot and Liquibase](https://medium.com/@harittweets/evolving-your-database-using-spring-boot-and-liquibase-844fcd7931da)
